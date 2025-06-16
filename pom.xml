@@ -21,7 +21,7 @@
   		<maven.compiler.source>1.6</maven.compiler.source>
     	<maven.compiler.target>1.6</maven.compiler.target>
         <tomcat.version>8.0.21</tomcat.version>
-        <jersey.version>2.17</jersey.version>
+        <jersey.version>2.26</jersey.version>
         <skipTests>true</skipTests>
     </properties>
 	
